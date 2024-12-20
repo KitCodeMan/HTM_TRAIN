@@ -1,0 +1,20 @@
+.div_out, .div_in {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.div_in {
+  background-color: purple;
+  color: aquamarine;
+  width: 200px;
+  padding: 20px;
+  justify-content: center;
+}
+
+.div_out {
+  background-color: navy;
+  gap: 20px;
+}/*# sourceMappingURL=t.css.map */
